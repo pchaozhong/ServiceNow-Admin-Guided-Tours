@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="lookup.sys_update_set.parent">8b96a3594f265b80003233718110c79a</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[<b>If</b> this update set should be a <b>child</b> of another update set in a batch, make sure to enter the <b>parent</b> update set here (if it's not already selected). <br />
+<br />
+<b>Click <u>Next</u> to continue</b>.]]></content>
+        <guide display_value="AGD:Update Sets">ca955f554f265b80003233718110c714</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 4</name>
+        <options/>
+        <order>4</order>
+        <placement>right</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-06 19:01:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9b96ab1d4f265b80003233718110c7d7</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Step 4</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_9b96ab1d4f265b80003233718110c7d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 15:50:21</sys_updated_on>
+        <target/>
+        <target_ref display_value="lookup.sys_update_set.parent">8b96a3594f265b80003233718110c79a</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sys_update_set.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=9b96ab1d4f265b80003233718110c7d7"/>
+</record_update>

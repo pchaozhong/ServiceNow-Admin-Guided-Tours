@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>true</action>
+        <action_event>click</action_event>
+        <action_target/>
+        <action_target_ref display_value="ca955f554f265b80003233718110c714.9.xpath">aca844794fa61300003233718110c7f8</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Since we did not click the <b>Submit and make current</b> button, our current/"selected" update set has not changed. <br />
+However, now that our update set has been <b>saved</b>, and since the <b>State</b> field is set to "In progress", we can use these UI Actions to either make this update set our "current" update set, or we can merge it with another update set we may have created previously. <br />
+For now, let's make this our current update set.<br />
+<br />
+<b>Click <u>Make This My Current Set</u></b> to continue.]]></content>
+        <guide display_value="AGD:Update Sets">ca955f554f265b80003233718110c714</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 9</name>
+        <options/>
+        <order>9</order>
+        <placement>right</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-07 16:09:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eca840b94fa61300003233718110c715</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Step 9</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_eca840b94fa61300003233718110c715</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 16:10:12</sys_updated_on>
+        <target/>
+        <target_ref display_value="ca955f554f265b80003233718110c714.9.xpath">aca844794fa61300003233718110c7f8</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sys_update_set.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=eca840b94fa61300003233718110c715"/>
+</record_update>

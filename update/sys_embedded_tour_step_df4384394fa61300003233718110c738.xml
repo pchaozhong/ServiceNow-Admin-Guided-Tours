@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>true</action>
+        <action_event>contextmenu</action_event>
+        <action_target/>
+        <action_target_ref display_value="ca955f554f265b80003233718110c714.8.xpath">434380394fa61300003233718110c785</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[You <b>could</b> click "Submit and make current" at the bottom of this form, to both save the update set record, and to make it your currently "selected" update set (the one into which all of your changes will be saved), of you could click <b>Submit</b> which would save the update set and send you back to the previous page (the update set list). <br />
+Instead, let's <b>save</b> the record but remain on this page.<br />
+<br />
+<b><u>Right-Click</u> the <u>middle</u> of the grey header bar</b> to continue.]]></content>
+        <guide display_value="AGD:Update Sets">ca955f554f265b80003233718110c714</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 7</name>
+        <options/>
+        <order>7</order>
+        <placement>bottom</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-07 15:45:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df4384394fa61300003233718110c738</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Step 7</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_df4384394fa61300003233718110c738</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 15:59:22</sys_updated_on>
+        <target/>
+        <target_ref display_value="ca955f554f265b80003233718110c714.8.xpath">434380394fa61300003233718110c785</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sys_update_set.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=df4384394fa61300003233718110c738"/>
+</record_update>

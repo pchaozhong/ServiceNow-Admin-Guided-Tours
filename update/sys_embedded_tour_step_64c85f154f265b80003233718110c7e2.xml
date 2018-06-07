@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="ca955f554f265b80003233718110c714.0.xpath">ecc89f554f265b80003233718110c72a</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[This is the <b>Update Sets</b> table. It contains a list of all of the local update sets in the system currently. <br />
+This guided tour will walk you through <b>creating</b> an update set for whatever development you're looking to do. It will also teach you some important concepts, including the following: <br />
+<ul>
+	<li>The <b>Default</b> update set</li>
+	<li>Update set <b>batching</b> and <b>master</b> update sets</li>
+	<li>What is (and isn't!) tracked in update sets</li>
+	<li>Tips to follow and pitfalls to avoid when working with update sets</li>
+</ul>
+Click "Next" to continue. Click the "X" in the top-right to close this tour at any time. ]]></content>
+        <guide display_value="AGD:Update Sets">ca955f554f265b80003233718110c714</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 0</name>
+        <options/>
+        <order>0</order>
+        <placement>bottom</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-06 18:01:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>64c85f154f265b80003233718110c7e2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Step 0</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_64c85f154f265b80003233718110c7e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-06 19:10:07</sys_updated_on>
+        <target/>
+        <target_ref display_value="ca955f554f265b80003233718110c714.0.xpath">ecc89f554f265b80003233718110c72a</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sys_update_set_list.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=64c85f154f265b80003233718110c7e2"/>
+</record_update>

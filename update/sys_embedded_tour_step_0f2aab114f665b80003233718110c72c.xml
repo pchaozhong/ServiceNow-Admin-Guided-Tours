@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="label.sys_update_set.application">8f2a6b114f665b80003233718110c7c0</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[The <b>Application</b> field is very important. Most of the time, this field should say <b>Global</b>. If you are in an application scope or namespace, you you should make sure that this field matches the name of the application/scope you're working in. Otherwise, your changes will be "trapped" in the wrong scope!<br />
+If it does not, you cannot change the value on this form. Instead, click on the <b>System settings cog</b> (<img src="system_settings_cogwheel.png" width="19" height="20" style="border-radius:10px"/>), open the <b>Developer</b> tab, and update the <b>Application</b> field there - then reload this form. ]]></content>
+        <guide display_value="AGD:Update Sets">ca955f554f265b80003233718110c714</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 6</name>
+        <options/>
+        <order>2</order>
+        <placement>left</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-06 19:17:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0f2aab114f665b80003233718110c72c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Step 6</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_0f2aab114f665b80003233718110c72c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-06 19:17:35</sys_updated_on>
+        <target/>
+        <target_ref display_value="label.sys_update_set.application">8f2a6b114f665b80003233718110c7c0</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sys_update_set.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=0f2aab114f665b80003233718110c72c"/>
+</record_update>
