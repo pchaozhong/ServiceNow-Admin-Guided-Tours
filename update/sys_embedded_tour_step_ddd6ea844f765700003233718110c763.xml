@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>true</action>
+        <action_event>click</action_event>
+        <action_target/>
+        <action_target_ref display_value="ca955f554f265b80003233718110c714.15.xpat">cdd6ae844f765700003233718110c708</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[After the page refreshes, you should see the "Export to XML" link here. Before you click this, you may want to select and copy the <b>name</b> of your update set to your clipboard, so you can use it as your exported file name. <br />
+<br />
+Once you're ready, click "Export to XML". A file-save window will pop up. You could paste in your update set name and save it if you wanted to backup your update set to a local file, or you can just click "Cancel" to move to the next step. ]]></content>
+        <guide display_value="AGD:Update Sets">ca955f554f265b80003233718110c714</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 15</name>
+        <options/>
+        <order>15</order>
+        <placement>right</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-15 03:26:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ddd6ea844f765700003233718110c763</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Step 15</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_ddd6ea844f765700003233718110c763</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-15 03:59:01</sys_updated_on>
+        <target/>
+        <target_ref display_value="ca955f554f265b80003233718110c714.15.xpat">cdd6ae844f765700003233718110c708</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sys_update_set.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=ddd6ea844f765700003233718110c763"/>
+</record_update>

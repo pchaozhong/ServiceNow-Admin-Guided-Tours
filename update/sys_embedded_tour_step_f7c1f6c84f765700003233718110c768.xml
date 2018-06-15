@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>true</action>
+        <action_event>change</action_event>
+        <action_target/>
+        <action_target_ref display_value="sys_update_set.name">fbc1bec84f765700003233718110c73b</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Often, our most recent update set name will be included here, with a "2" at the end of it. You could keep that, but let's give it a more descriptive name, like "Training child set-v.1". <br />
+<br />
+<b>Give this child update set a new <u>Name</u> and then press <u>Tab</u> or click outside the field to continue.</b>]]></content>
+        <guide display_value="AGD:Update Sets">ca955f554f265b80003233718110c714</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 18</name>
+        <options/>
+        <order>18</order>
+        <placement>right</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-15 04:14:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f7c1f6c84f765700003233718110c768</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Step 18</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_f7c1f6c84f765700003233718110c768</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-15 04:15:38</sys_updated_on>
+        <target/>
+        <target_ref display_value="sys_update_set.name">fbc1bec84f765700003233718110c73b</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sys_update_set.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=f7c1f6c84f765700003233718110c768"/>
+</record_update>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="sys_display.sys_update_set.parent">2502fec84f765700003233718110c753</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[The Update Set we were just on, is automatically populated as this Update Set's <b>Parent</b>!<br />
+<br />
+<b>Click <u>Next</u> to continue.</b>]]></content>
+        <guide display_value="AGD:Update Sets">ca955f554f265b80003233718110c714</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 19</name>
+        <options/>
+        <order>19</order>
+        <placement>right</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-15 04:15:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7502bec84f765700003233718110c750</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Step 19</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_7502bec84f765700003233718110c750</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-15 04:15:28</sys_updated_on>
+        <target/>
+        <target_ref display_value="sys_display.sys_update_set.parent">2502fec84f765700003233718110c753</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sys_update_set.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=7502bec84f765700003233718110c750"/>
+</record_update>

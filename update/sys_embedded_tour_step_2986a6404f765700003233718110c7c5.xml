@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>true</action>
+        <action_event>contextmenu</action_event>
+        <action_target/>
+        <action_target_ref display_value="ca955f554f265b80003233718110c714.13.xpat">a1866a404f765700003233718110c7ff</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Next, <b>right-click</b> again in about the middle of the grey header bar. ]]></content>
+        <guide display_value="AGD:Update Sets">ca955f554f265b80003233718110c714</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 13</name>
+        <options/>
+        <order>13</order>
+        <placement>bottom</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-15 03:25:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2986a6404f765700003233718110c7c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Step 13</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_2986a6404f765700003233718110c7c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-15 03:25:14</sys_updated_on>
+        <target/>
+        <target_ref display_value="ca955f554f265b80003233718110c714.13.xpat">a1866a404f765700003233718110c7ff</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sys_update_set.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=2986a6404f765700003233718110c7c5"/>
+</record_update>
