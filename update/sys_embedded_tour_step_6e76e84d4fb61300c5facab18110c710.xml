@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="1c6998894f761300c5facab18110c76c.11.xpat">d276e40d4fb61300c5facab18110c736</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[The <b>Roles</b> field allows you to specify one or more roles that would permit the user to be able to access and fill 
+out this catalog item. With no roles specified, anyone can access it. With multiple roles specified, the user must 
+only have one of the specified roles to be able to access this catalog item. <br/>
+For now, let's leave this field blank. ]]></content>
+        <guide display_value="Catalog Items">1c6998894f761300c5facab18110c76c</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 11</name>
+        <options/>
+        <order>11</order>
+        <placement>left</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-17 20:39:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6e76e84d4fb61300c5facab18110c710</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Step 11</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_6e76e84d4fb61300c5facab18110c710</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-17 20:39:41</sys_updated_on>
+        <target/>
+        <target_ref display_value="1c6998894f761300c5facab18110c76c.11.xpat">d276e40d4fb61300c5facab18110c736</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sc_cat_item.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=6e76e84d4fb61300c5facab18110c710"/>
+</record_update>

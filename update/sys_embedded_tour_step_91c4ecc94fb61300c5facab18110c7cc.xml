@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="sys_display.sc_cat_item.workflow">11c46cc94fb61300c5facab18110c78b</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[In this field, you could select a pre-defined <b>Workflow</b> you've built to control the flow and automate some
+steps for this catalog item. However, the Workflow Editor is outside the scope of this Guide Tour, so let's leave
+this field blank for now. <br/>
+<br/>
+<b>Click <u>Next</u> to continue.</b>]]></content>
+        <guide display_value="Catalog Items">1c6998894f761300c5facab18110c76c</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 9</name>
+        <options/>
+        <order>8</order>
+        <placement>right</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-17 20:32:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>91c4ecc94fb61300c5facab18110c7cc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Step 9</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_91c4ecc94fb61300c5facab18110c7cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-17 20:33:41</sys_updated_on>
+        <target/>
+        <target_ref display_value="sys_display.sc_cat_item.workflow">11c46cc94fb61300c5facab18110c78b</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sc_cat_item.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=91c4ecc94fb61300c5facab18110c7cc"/>
+</record_update>

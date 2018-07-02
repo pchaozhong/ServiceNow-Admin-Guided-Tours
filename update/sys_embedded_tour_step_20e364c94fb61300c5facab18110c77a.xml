@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>true</action>
+        <action_event>click</action_event>
+        <action_target/>
+        <action_target_ref display_value="sc_cat_itemsc_catalogslock">ece3a8494fb61300c5facab18110c7bb</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[If you want your catalog item to show up in your service catalog at all, you'll want to put it into a specific
+<b>Catalog</b>, and if you want it to be searchable, you'll need to put it into a <b>Category</b>.  
+<br/>
+<br/>
+Expand the <b>Catalogs</b> field and add select a catalog. You can just use the default <b>Service Catalog</b> 
+catalog if you like. Add a category as well if you can find one, but it's not important for this demo. ]]></content>
+        <guide display_value="Catalog Items">1c6998894f761300c5facab18110c76c</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 8</name>
+        <options/>
+        <order>7</order>
+        <placement>right</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-17 20:28:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>20e364c94fb61300c5facab18110c77a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Step 8</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_20e364c94fb61300c5facab18110c77a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-17 20:33:41</sys_updated_on>
+        <target/>
+        <target_ref display_value="sc_cat_itemsc_catalogslock">ece3a8494fb61300c5facab18110c7bb</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sc_cat_item.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=20e364c94fb61300c5facab18110c77a"/>
+</record_update>

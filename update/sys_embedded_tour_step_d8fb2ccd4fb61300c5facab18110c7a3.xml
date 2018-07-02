@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="1c6998894f761300c5facab18110c76c.22.xpat">ccfb28cd4fb61300c5facab18110c760</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Now we just need to add a query to filter the list of available user accounts that the user can select. For now, just
+add a filter that says <b>Active is True</b>, so only active users can be selected. <br/>
+<br/>
+<b>Click <u>Next</u> after adding the query to continue.</b>]]></content>
+        <guide display_value="Catalog Items">1c6998894f761300c5facab18110c76c</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 22</name>
+        <options/>
+        <order>22</order>
+        <placement>top</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-17 21:03:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d8fb2ccd4fb61300c5facab18110c7a3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Step 22</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_d8fb2ccd4fb61300c5facab18110c7a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-17 21:08:05</sys_updated_on>
+        <target/>
+        <target_ref display_value="1c6998894f761300c5facab18110c76c.22.xpat">ccfb28cd4fb61300c5facab18110c760</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>item_option_new.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=d8fb2ccd4fb61300c5facab18110c7a3"/>
+</record_update>

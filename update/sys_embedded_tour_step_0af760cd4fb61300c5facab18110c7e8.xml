@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>true</action>
+        <action_event>click</action_event>
+        <action_target/>
+        <action_target_ref display_value="sc_cat_item.form.related_listui_action">46f72c8d4fb61300c5facab18110c76a</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[<b>Catalog Variables</b> are not the same thing as variables in programming, though they're somewhat similar. Catalog
+variables are pre-defined, and associated to a specific catalog item or variable set. Each variable typically shows 
+up as a "question" on the Catalog Item form when the user fills it out. <br/>
+Let's create a variable now, so we can see what they look like. <br/>
+<br/>
+<b>Click the <u>New</u> button to continue.</b>]]></content>
+        <guide display_value="Catalog Items">1c6998894f761300c5facab18110c76c</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 15</name>
+        <options/>
+        <order>15</order>
+        <placement>top</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-17 20:46:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0af760cd4fb61300c5facab18110c7e8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Step 15</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_0af760cd4fb61300c5facab18110c7e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-17 21:08:05</sys_updated_on>
+        <target/>
+        <target_ref display_value="sc_cat_item.form.related_listui_action">46f72c8d4fb61300c5facab18110c76a</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sc_cat_item.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=0af760cd4fb61300c5facab18110c7e8"/>
+</record_update>
