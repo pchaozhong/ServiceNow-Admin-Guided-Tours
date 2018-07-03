@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="sys_update_set.name">6ba4524a4f4bd300c5facab18110c7e2</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Let's create a <b>name</b> for our new update set. When creating a name, it's important to consider any <b>naming conventions</b> you may have. If you're not sure, ask around! If you don't have any specific naming conventions in-place, here are some pointers: <br />
+<ul>
+	<li>Consider adding a version number to your update set name, to make it easy to group and merge related sets later on</li>
+	
+	<li>If you are doing work that relates to a specific task number, consider including it. <br />
+	Example: <i>INC0012345-v.1</i></li>
+	
+	<li>Consider adding your initials, the project prefix, or some other identifier to the beginning of the update set name. <br />
+	Example: <i>TW-INC0012345-v.1</i></li>
+	
+	<li>If you know you might group your update sets into <b>batches</b> (more on that later), consider adding "BASE" or "Master" to the update set name. <br />
+	Example: <i>TW-INC0012345-BASE</i><br />
+	<i><b>Note</b>: If you do use a batch base, make sure to also create a child update set, and create your update sets in <i>that</i>, as it's best to avoid putting updates directly in your batch base.</i></li>
+	<li><b>Never</b> rename or otherwise change a system-generated update set (usually called "<b>Default</b>")</li>
+</ul>
+Click <b>Next</b> to see more... ]]></content>
+        <guide display_value="AGD:Update Sets">ca955f554f265b80003233718110c714</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 3</name>
+        <options/>
+        <order>3</order>
+        <placement>right</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-03 17:30:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>33a45a4a4f4bd300c5facab18110c7b6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Step 3</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_33a45a4a4f4bd300c5facab18110c7b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-03 17:31:48</sys_updated_on>
+        <target/>
+        <target_ref display_value="sys_update_set.name">6ba4524a4f4bd300c5facab18110c7e2</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sys_update_set.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=33a45a4a4f4bd300c5facab18110c7b6"/>
+</record_update>

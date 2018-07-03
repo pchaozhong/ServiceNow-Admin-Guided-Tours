@@ -12,7 +12,7 @@
         <link/>
         <name>Step 10</name>
         <options/>
-        <order>10</order>
+        <order>12</order>
         <placement>top</placement>
         <sys_class_name>sys_embedded_tour_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -20,7 +20,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7652d4fd4fa61300003233718110c7e6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Step 10</sys_name>
         <sys_overrides/>
         <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
@@ -28,7 +28,7 @@
         <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
         <sys_update_name>sys_embedded_tour_step_7652d4fd4fa61300003233718110c7e6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-07 16:51:32</sys_updated_on>
+        <sys_updated_on>2018-07-03 17:31:04</sys_updated_on>
         <target/>
         <target_ref display_value="sys_update_set.tabs2SectionsList.Custome">ae5214314fe61300003233718110c77e</target_ref>
         <ui_version>dynamic</ui_version>

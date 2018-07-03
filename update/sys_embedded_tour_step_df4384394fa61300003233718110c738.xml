@@ -15,7 +15,7 @@ Instead, let's <b>save</b> the record but remain on this page.<br />
         <link/>
         <name>Step 7</name>
         <options/>
-        <order>7</order>
+        <order>9</order>
         <placement>bottom</placement>
         <sys_class_name>sys_embedded_tour_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -23,7 +23,7 @@ Instead, let's <b>save</b> the record but remain on this page.<br />
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>df4384394fa61300003233718110c738</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Step 7</sys_name>
         <sys_overrides/>
         <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
@@ -31,7 +31,7 @@ Instead, let's <b>save</b> the record but remain on this page.<br />
         <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
         <sys_update_name>sys_embedded_tour_step_df4384394fa61300003233718110c738</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-07 15:59:22</sys_updated_on>
+        <sys_updated_on>2018-07-03 17:31:03</sys_updated_on>
         <target/>
         <target_ref display_value="ca955f554f265b80003233718110c714.8.xpath">434380394fa61300003233718110c785</target_ref>
         <ui_version>dynamic</ui_version>

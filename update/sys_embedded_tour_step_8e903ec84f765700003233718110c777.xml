@@ -14,7 +14,7 @@ Once you've selected the <b>Child Update Sets</b> tab, <b>Click <u>Next</u> to c
         <link/>
         <name>Step 16</name>
         <options/>
-        <order>16</order>
+        <order>18</order>
         <placement>top</placement>
         <sys_class_name>sys_embedded_tour_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -22,7 +22,7 @@ Once you've selected the <b>Child Update Sets</b> tab, <b>Click <u>Next</u> to c
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8e903ec84f765700003233718110c777</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Step 16</sys_name>
         <sys_overrides/>
         <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
@@ -30,7 +30,7 @@ Once you've selected the <b>Child Update Sets</b> tab, <b>Click <u>Next</u> to c
         <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
         <sys_update_name>sys_embedded_tour_step_8e903ec84f765700003233718110c777</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-15 04:10:32</sys_updated_on>
+        <sys_updated_on>2018-07-03 17:31:04</sys_updated_on>
         <target/>
         <target_ref display_value="ca955f554f265b80003233718110c714.16.xpat">0a90320c4f765700003233718110c755</target_ref>
         <ui_version>dynamic</ui_version>

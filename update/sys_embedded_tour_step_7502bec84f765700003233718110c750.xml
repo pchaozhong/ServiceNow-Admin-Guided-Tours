@@ -14,7 +14,7 @@
         <link/>
         <name>Step 19</name>
         <options/>
-        <order>19</order>
+        <order>21</order>
         <placement>right</placement>
         <sys_class_name>sys_embedded_tour_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -22,7 +22,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7502bec84f765700003233718110c750</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Step 19</sys_name>
         <sys_overrides/>
         <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
@@ -30,7 +30,7 @@
         <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
         <sys_update_name>sys_embedded_tour_step_7502bec84f765700003233718110c750</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-15 04:15:28</sys_updated_on>
+        <sys_updated_on>2018-07-03 17:31:04</sys_updated_on>
         <target/>
         <target_ref display_value="sys_display.sys_update_set.parent">2502fec84f765700003233718110c753</target_ref>
         <ui_version>dynamic</ui_version>

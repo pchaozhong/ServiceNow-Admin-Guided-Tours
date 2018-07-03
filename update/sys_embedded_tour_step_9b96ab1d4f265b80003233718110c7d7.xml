@@ -14,7 +14,7 @@
         <link/>
         <name>Step 4</name>
         <options/>
-        <order>4</order>
+        <order>5</order>
         <placement>right</placement>
         <sys_class_name>sys_embedded_tour_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -22,7 +22,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9b96ab1d4f265b80003233718110c7d7</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Step 4</sys_name>
         <sys_overrides/>
         <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
@@ -30,7 +30,7 @@
         <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
         <sys_update_name>sys_embedded_tour_step_9b96ab1d4f265b80003233718110c7d7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-07 15:50:21</sys_updated_on>
+        <sys_updated_on>2018-07-03 17:31:03</sys_updated_on>
         <target/>
         <target_ref display_value="lookup.sys_update_set.parent">8b96a3594f265b80003233718110c79a</target_ref>
         <ui_version>dynamic</ui_version>

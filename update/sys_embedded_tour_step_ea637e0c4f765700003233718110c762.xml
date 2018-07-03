@@ -11,9 +11,9 @@ Back on the parent update set (AKA the "batch base"), if you mark that one as <b
         <guide display_value="AGD:Update Sets">ca955f554f265b80003233718110c714</guide>
         <implicit>false</implicit>
         <link/>
-        <name>Step 22</name>
+        <name>Step 24</name>
         <options/>
-        <order>22</order>
+        <order>24</order>
         <placement>right</placement>
         <sys_class_name>sys_embedded_tour_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -21,15 +21,15 @@ Back on the parent update set (AKA the "batch base"), if you mark that one as <b
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ea637e0c4f765700003233718110c762</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Step 22</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Step 24</sys_name>
         <sys_overrides/>
         <sys_package display_value="Admin Guided Tours" source="x_13231_admin_tour">ed055f154f265b80003233718110c7de</sys_package>
         <sys_policy/>
         <sys_scope display_value="Admin Guided Tours">ed055f154f265b80003233718110c7de</sys_scope>
         <sys_update_name>sys_embedded_tour_step_ea637e0c4f765700003233718110c762</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-15 04:21:33</sys_updated_on>
+        <sys_updated_on>2018-07-03 17:39:33</sys_updated_on>
         <target/>
         <target_ref display_value="sys_update_set.state">aa63364c4f765700003233718110c7a6</target_ref>
         <ui_version>dynamic</ui_version>
